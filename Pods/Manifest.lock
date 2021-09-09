@@ -1,0 +1,16 @@
+PODS:
+  - TRUNetworking (0.1.0)
+
+DEPENDENCIES:
+  - TRUNetworking (from `Lib/TRUNetworking`)
+
+EXTERNAL SOURCES:
+  TRUNetworking:
+    :path: Lib/TRUNetworking
+
+SPEC CHECKSUMS:
+  TRUNetworking: 6e4547241e191d9920484b5da008944d3da863c7
+
+PODFILE CHECKSUM: b911a172e4ffcbd37aa717c22c68431ed3aa0e15
+
+COCOAPODS: 1.10.1
